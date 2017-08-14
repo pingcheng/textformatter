@@ -1,0 +1,19 @@
+{
+  "name": "pingcheng/textformatter",
+  "description": "A very simple string template for text rendering",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Ping Cheng",
+      "email": "ping.che@hotmail.com"
+    }
+  ],
+  "requires": {
+    "php": ">=5.4.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "PingCheng\\": "src"
+    }
+  }
+}
